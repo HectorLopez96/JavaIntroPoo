@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EnteredData {
+public class InputData {
 
     public static int getInt(){
         int sc;
